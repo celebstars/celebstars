@@ -20,6 +20,8 @@ app.get("/prepage", (req, res) => {
   res.render("prepage");
 });
 
+// fd
+// fd
 app.listen(port, () => {
   console.log("server open:", port);
 });
