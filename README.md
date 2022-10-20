@@ -15,7 +15,9 @@
 
 
 ## 페이지 설계
-![celeb](https://user-images.githubusercontent.com/99079176/196618440-421e7cac-a160-4309-bb5b-b56bea38aa8e.JPG)
+<img width="937" alt="celebstars1" src="https://user-images.githubusercontent.com/48630055/196873605-bd1b7f50-837c-4cb7-b82f-5d80a7bcefbe.png">
+
+
 - 전체적인 UI/UX, 메인 컬러 디자인
 - 모든 페이지에 반응형 페이지 적용
 ## 구현 기능
