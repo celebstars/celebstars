@@ -1,4 +1,6 @@
-![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3e18f9d-2b79-4574-b50f-9598f8be31bf%2Fcelebstars_logo.png?table=block&id=a073b61b-1cc7-44e1-872f-3cb248d82f82&spaceId=6e9ffcdf-452b-494c-a455-03f79451456b&width=1640&userId=b30b4534-c8a0-4959-9f96-2c49d1a62326&cache=v2)
+<img width="959" alt="celebstars" src="https://user-images.githubusercontent.com/48630055/196873250-db67b066-8f9f-4a12-848c-0608dc2954b6.png">
+
+
 # Celebstars
 - [KDT - 1차 프로젝트](https://joodeng.notion.site/joodeng/Joo-Young-Lee-61db50959426458db50275c985d2de2a?p=a073b61b1cc744e1872f3cb248d82f82&pm=c)
 - 20220815 ~ 20220829
