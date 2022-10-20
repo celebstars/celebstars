@@ -3,6 +3,15 @@
 - [KDT - 1차 프로젝트](https://joodeng.notion.site/joodeng/Joo-Young-Lee-61db50959426458db50275c985d2de2a?p=a073b61b1cc744e1872f3cb248d82f82&pm=c)
 - 20220815 ~ 20220829
 - Use: HTML, CSS, JavaScript, Git, Node.js, Express
+
+## 프로젝트 소개
+###On Demand CASTING 서비스란?
+**기업이 원하는 금액으로 원하는 모델, 배우를 실시간 캐스팅**
+- 쉽고 간편하게 그리고 빠르게 !!
+- 기업과 모델/배우들이 자유롭게 지원하고 모집할 수 있는 서비스 
+- 모델/배우 캐스팅 전문 플랫폼
+
+
 ## 페이지 설계
 ![celeb](https://user-images.githubusercontent.com/99079176/196618440-421e7cac-a160-4309-bb5b-b56bea38aa8e.JPG)
 - 전체적인 UI/UX, 메인 컬러 디자인
