@@ -5,7 +5,7 @@
 - Use: HTML, CSS, JavaScript, Git, Node.js, Express
 
 ## 프로젝트 소개
-###On Demand CASTING 서비스란?
+### On Demand CASTING 서비스란?
 **기업이 원하는 금액으로 원하는 모델, 배우를 실시간 캐스팅**
 - 쉽고 간편하게 그리고 빠르게 !!
 - 기업과 모델/배우들이 자유롭게 지원하고 모집할 수 있는 서비스 
